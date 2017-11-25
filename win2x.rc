@@ -1,0 +1,10 @@
+/* Wedit generated resource file */
+#ifdef __LCC__
+#include <windows.h>
+#endif
+#include "win2xres.h"
+
+IDACCEL ACCELERATORS
+BEGIN
+    81, IDM_EXIT, VIRTKEY, CONTROL 
+END
